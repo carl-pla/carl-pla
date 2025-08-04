@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, ich bin Carl!
 
-<!--
-**carl-pla/carl-pla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin ein Entwickler mit Fokus auf **Automatisierung, KI** und **sportlichem Mindset**.  
+Ich kombiniere Code mit Performance – sowohl im Alltag als auch in der Software.
 
-Here are some ideas to get you started:
+## 🚀 Tech-Stack
+- Python, scikit-learn, Pandas, Seaborn
+- Prozessautomatisierung & Datenanalyse
+- WEB-Development Django 
+- Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📦 Projekte
+- 🧠 **KI-Terminplaner** – erstellt Tagespläne per Machine Learning
+- 📱 **TikTok Analyzer** – Engagement-Analyse für Creators (in Progress...)
+
+## 🧠 Lernziele 2025
+- [ ] Deployment von KI-Modellen (FastAPI + Docker)
+- [ ] Eigene Automatisierungs-SaaS aufbauen
+- [ ] Deep-Learning-Projekt veröffentlichen
