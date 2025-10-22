@@ -1,6 +1,6 @@
 ## Hi, ich bin Carl!
 
-Entwickler mit Fokus auf **Automatisierung, KI** und **sportlichem Mindset**.  
+Entwickler mit Fokus auf **Automatisierung, KI** 
 
 ## Tech-Stack
 - Python, scikit-learn, Pandas, Seaborn
