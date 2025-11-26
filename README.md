@@ -10,12 +10,11 @@ Ich baue Systeme, die **Abläufe optimieren**, **Daten intelligent analysieren**
 ### 🚀 Core
 - **Python**, **TypeScript**
 - **Django**, **Django REST Framework**
-- **React**, **Tailwind CSS**, **Next.js**
-- **PostgreSQL**, **SQLite**, **Qdrant (Vector DB)**
+- **React**, **Tailwind CSS**
+- (**PostgreSQL**, **SQLite**, **Qdrant (Vector DB)**)
 
 ### 🤖 Machine Learning & KI
 - **scikit-learn**, **pandas**, **NumPy**, **matplotlib**, **seaborn**
-- **Datenanalyse**, **Feature Engineering**, **Modelltraining**
 - **Automatisierung von ML-Workflows**, **API-Integration für KI-Modelle**
 
 ### ⚙️ DevOps & Automatisierung
@@ -37,7 +36,4 @@ Ich baue Systeme, die **Abläufe optimieren**, **Daten intelligent analysieren**
 - **LangChain / Qdrant** für semantische Suche & KI-basierte Wissenssysteme  
 - **Cloud & Self-Hosted Deployments** mit Docker und CI/CD  
 
----
 
-> *"Code ist nur so gut, wie das System, das er optimiert."*  
-> — Fokus: **Effizienz, Klarheit & KI-gestützte Lösungen**
