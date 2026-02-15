@@ -14,14 +14,13 @@ Ich baue Systeme, die **Abläufe optimieren**, **Daten intelligent analysieren**
 - (**PostgreSQL**, **SQLite**, **Qdrant (Vector DB)**)
 
 ### 🤖 Machine Learning & KI
-- **scikit-learn**, **pandas**, **NumPy**, **matplotlib**, **seaborn**
-- **Automatisierung von ML-Workflows**, **API-Integration für KI-Modelle**
+- **pandas**, **NumPy**, **matplotlib**, **seaborn**
+- **API-Integration für KI-Modelle**
 
 ### ⚙️ DevOps & Automatisierung
 - **Docker**, **Docker Compose**
 - **Git**, **GitHub Actions**
 - **Prozessautomatisierung mit Python**
-- **API-Design & Integration (REST / JSON)**
 
 ---
 
