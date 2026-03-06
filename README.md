@@ -1,7 +1,6 @@
 # 👋 Hi, ich bin Carl
 
-Ich bin Entwickler mit einem starken Fokus auf **Künstliche Intelligenz**, **Automatisierung** und **Full-Stack**.  
-Ich baue Systeme, die **Abläufe optimieren**, **Daten intelligent analysieren** und **moderne Interfaces** für komplexe Prozesse schaffen.
+Ich bin Entwickler mit einem starken Fokus auf **Künstliche Intelligenz**, **Pipeline-Automatisierung** und **Full-Stack**.  
 
 ---
 
@@ -25,14 +24,12 @@ Ich baue Systeme, die **Abläufe optimieren**, **Daten intelligent analysieren**
 ---
 
 ## 🧩 **Aktuelle Projekte**
-- 🚀 Aufbau eines **Django + React Dashboards** mit Datei-Upload und Qdrant-Integration zur semantischen Suche.  
-- 🤖 Entwicklung von **AI-Automatisierungen** für Unternehmensdatenanalyse & Prozessoptimierung.  
-
+- 🚀 Aufbau eines **FastApi + React Dashboards** mit Datei-Upload und Qdrant-Integration zur semantischen Suche mit lokalen Modellen von ollama.    
 ---
 
 ## 🌱 **Was ich aktuell lerne**
-- **MLOps**: Automatisiertes Training & Deployment von ML-Modellen  
-- **LangChain / Qdrant** für semantische Suche & KI-basierte Wissenssysteme  
+- **API Handling** Webdaten scrapen und Endpoints sinngemäß benutzen  
+- **Qdrant** für semantische Suche & KI-basierte Wissenssysteme  
 - **Cloud & Self-Hosted Deployments** mit Docker und CI/CD  
 
 
