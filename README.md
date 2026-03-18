@@ -5,7 +5,8 @@ Ich bin Entwickler mit einem starken Fokus auf **Künstliche Intelligenz**, **Pi
 ---
 ## Portfolio Projekte 
 - Intelligentes RAG-Wissensmanagement Tool (MVP -> Enterprise Ready)
-- Second-hand Sizeguide Manager, API Scrapping und GUI
+- Second-hand Sizeguide Manager, API Scrapping und GUI (in Arbeit)
+- ML-basierten Pipeline zur Markttrend-Analyse digitaler Dokumentationsplattformen (noch nicht angefangen)
 - Food-Waste Tracker mit Error -und CLI Handling
 - Wein-Datensatz Analyse, Manipulationen, Dokumentation & Visualisierung 
 - Webseite für intelligentes Wissemanagemnt Tool
