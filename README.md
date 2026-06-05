@@ -34,7 +34,7 @@ Hier ist eine Übersicht meiner aktuellen Arbeiten:
 *   **Status:** Uni-Projekt, bereits eingereicht (2.Semester)
 
 
-# Softwareentwicklung 
+## Softwareentwicklung 
 ### 👗 Second-Hand Sizeguide Manager
 *   **Worum geht's?** Ein Tool, das Größenberater-Daten von verschiedenen Second-Hand-Plattformen via API-Scraping sammelt und aggregiert. Die Daten werden über eine intuitive grafische Benutzeroberfläche (GUI) nutzbar gemacht.
 *   **Tech-Stack:** Python, REST-APIs, BeautifulSoup/Request-Scraping, Streamlit Frontend, Automatisiertes Email-System via SMTP
