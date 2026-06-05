@@ -25,13 +25,14 @@ Hier ist eine Übersicht meiner aktuellen Arbeiten:
 *   **Worum geht's?** Mein Hauptprojekt. Ein KI-gestütztes System zur intelligenten Dokumentensuche mittels Retrieval-Augmented Generation (RAG). Das Projekt bleibt auf MVP-Level, da es um die reine Konzeption ging. Es besitzt ein ähnliches Design wie die Spotlight-Suche bei Apple.
 *   **Tech-Stack:** Python, LLM via Ollama, Qdrant Vector-DB, React/Web-Frontend -> minimalistisch
 *   **Status:** MVP entwickelt, zunächst keine Weiterentiwcklung vorgesehen
-*   **Repo:** https://github.com/carl-pla/secondhand_sizeguide.git
+*   **Repo:** https://github.com/carl-pla/mvp1.git
 
 ## DevOps und Netzwerktechnik 
 ### 📈 Kahoot ähnliche App zur OpenSource Nutzung 
 *   **Worum geht's?** Nachbau des Bildungsspieles "Kahoot" nur ohne Lizenz und OpenSource Verfügbarkeit. Microservice-Architektur, die auf Hetzner Server läuft und Multiplayer-Modi unterstützt.
 *   **Tech-Stack:** Python, Docker, Kubernetes, Javascript 
 *   **Status:** Uni-Projekt, bereits eingereicht (2.Semester)
+*   **Repo:** https://github.com/Max-Christoph/QuizWebApp.git
 
 
 ## Softwareentwicklung 
@@ -39,13 +40,13 @@ Hier ist eine Übersicht meiner aktuellen Arbeiten:
 *   **Worum geht's?** Ein Tool, das Größenberater-Daten von verschiedenen Second-Hand-Plattformen via API-Scraping sammelt und aggregiert. Die Daten werden über eine intuitive grafische Benutzeroberfläche (GUI) nutzbar gemacht.
 *   **Tech-Stack:** Python, REST-APIs, BeautifulSoup/Request-Scraping, Streamlit Frontend, Automatisiertes Email-System via SMTP
 *   **Status:** Uni-Projekt, bereits eingereicht (2.Semester)
-*   **Repo:** `[Link einfügen]`
+*   **Repo:** https://github.com/carl-pla/secondhand_sizeguide.git 
 
 ### 🍏 Food-Waste Tracker (CLI App)
 *   **Worum geht's?** Ein praktischer Tracker gegen Lebensmittelverschwendung. Der Fokus lag hier bewusst nicht auf einer bunten UI, sondern auf sauberem Software-Engineering: Robustes Error-Handling, Edge-Case-Abfangung und ein sauberes CLI-User-Interface.
 *   **Tech-Stack:** Python (CLI-Libraries), Simples CLI-Handling
 *   **Status:** Uni-Projekt, bereits eingereicht (1.Semester)
-*   **Repo:** `[Link einfügen]`
+*   **Repo:** https://github.com/carl-pla/Grund.-Programmierung.git
 
 
 ## Data Science 
@@ -53,13 +54,14 @@ Hier ist eine Übersicht meiner aktuellen Arbeiten:
 *   **Worum geht's?** Nach der explorativen Datenanalyse kommt hier die Prädiktive Datenanalyse. Hier wurden 14-ML-Modelle trainiert auf verschiedenen Hyperparametern, um möglichst hohe Klassifkationsgenauigkeiten zu erhalten.
 *   **Tech-Stack:** Python, Pandas, NumPy, Scikit-learn
 *   **Status:** Uni-Projekt, bereits eingereicht (2.Semester)
+*   **Repo:** https://github.com/D00mf1st/DataScieneKISemester2.git
 
 
 ### 🍷 Wein-Datensatz: Analyse & Visualisierung
 *   **Worum geht's?** Klassisches Data-Science-Projekt. Exploration, Bereinigung und fortgeschrittene Manipulation eines komplexen Wein-Datensatzes. Stark dokumentiert (Jupyter Notebooks) mit aussagekräftigen Visualisierungen zur Mustererkennung. Reine explorative Datenanalyse.
 *   **Tech-Stack:** Python, Pandas, NumPy, Matplotlib/Seaborn
 *   **Status:** Uni-Projekt, bereits eingereicht (1.Semester)
-*   **Repo:** `[Link einfügen]`
+*   **Repo:** https://github.com/carl-pla/portfolio_DS.KI.git
 
 
 ## Siemens-Projekte:
