@@ -25,7 +25,7 @@ Hier ist eine Übersicht meiner aktuellen Arbeiten:
 *   **Worum geht's?** Mein Hauptprojekt. Ein KI-gestütztes System zur intelligenten Dokumentensuche mittels Retrieval-Augmented Generation (RAG). Das Projekt bleibt auf MVP-Level, da es um die reine Konzeption ging. Es besitzt ein ähnliches Design wie die Spotlight-Suche bei Apple.
 *   **Tech-Stack:** Python, LLM via Ollama, Qdrant Vector-DB, React/Web-Frontend -> minimalistisch
 *   **Status:** MVP entwickelt, zunächst keine Weiterentiwcklung vorgesehen
-*   **Repo:** `[Link einfügen]`
+*   **Repo:** https://github.com/carl-pla/secondhand_sizeguide.git
 
 ## DevOps und Netzwerktechnik 
 ### 📈 Kahoot ähnliche App zur OpenSource Nutzung 
