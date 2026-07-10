@@ -76,9 +76,5 @@ Hier ist eine Übersicht meiner aktuellen Arbeiten:
 *   **Harvard CS50x:** Ich absolviere aktuell den legendären Computer Science Kurs der Harvard University, um mein Verständnis für Algorithmen, Datenstrukturen, Memory Management (C) und tiefe IT-Konzepte auf ein solides Fundament zu stellen.
 *   **Infrastruktur:** Umbau meines privaten Setups zu einer Linux-VM-Umgebung für realitätsnahes MLOps-Deployment
 
----
-
-## 📈 Was ich suche
-Ich suche aktuell nach einem **Minijob (ca. 4–8h/Woche) oder kleinen Freelance-Projekten** in der Startup-Szene (bevorzugt Karlsruhe oder Remote), bei denen ich mein Fullstack- und Daten-Wissen einbringen und im Team wachsen kann.
 
 📫 **Kontakt:** carl.placek@icloud.com | Linkedin: Carl Placek | Workwise: Carl Placek | Junico: Carl Placek
